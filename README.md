@@ -1,7 +1,8 @@
-(https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)
+
 
 <h1 align="center">Hi 👋, I'm Yaniv avidar</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
+!(https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1kcHFtN3VuMGF0NXBrcHBoMHZoZHYxbjZoeWRtbHF4MmM2YTZ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanivavidar&label=Profile%20views&color=0e75b6&style=flat" alt="yanivavidar" /> </p>
